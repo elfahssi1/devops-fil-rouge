@@ -1,0 +1,23 @@
+{
+  "name": "devops-fil-rouge",
+  "version": "1.0.0",
+  "description": "\"# devops-fil-rouge\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elfahssi1/devops-fil-rouge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elfahssi1/devops-fil-rouge/issues"
+  },
+  "homepage": "https://github.com/elfahssi1/devops-fil-rouge#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
